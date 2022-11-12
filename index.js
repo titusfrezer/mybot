@@ -714,4 +714,3 @@ bot.command("help", async (ctx) => {
   `);
 });
 
-bot.start();
